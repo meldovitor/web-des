@@ -1,0 +1,20 @@
+corpo {
+		preenchimento : 0  15 px ;
+		margem : 10 px  0 ;
+		}
+		.boxBody {
+		largura : 85 % ;
+		preenchimento : 15 px ;
+		margem inferior : 10 px ;
+		}
+			artigo , seção { display : block ;}
+			#apai { width : 680 px ; plano de fundo : # 817971 ; borda : 1 px  sólido  # 000 ; preenchimento : 10 px ; margem inferior : 10 px ;  estouro : auto ;}
+			# sf1 { largura : 270 px ; altura : 270 px ; fundo : # 069 ; margem : 10 px ; float : esquerda ;}
+			# sf2 { largura : 270 px ; altura : 270 px ; fundo : # 076 ; margem : 10 px ; float : esquerda ;}
+			/ * #sclear {clear: both;} * /
+			#dpai { width : 660 px ; borda : 5 px  sólido  # 000 ; preenchimento : 10 px ; estouro : auto ;}
+			# dfilha1 { largura : 200 px ; altura : 200 px ; fundo : # 069 ; margem : 10 px ; float : esquerda ;}
+			# dfilha2 { largura : 200 px ; altura : 200 px ; fundo : # 076 ; margem : 10 px ; float : esquerda ;}
+			# dfilha3 { largura : 200 px ; altura : 200 px ; fundo : # 004 ; margem : 10 px ; float : direita ;}
+			/ * #dclear {clear: both;} * /
+			img { flutuar : esquerda ; borda : 1 px  sólido  # 000 ; margem : 0  10 px  0  0 ;}

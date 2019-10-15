@@ -1,0 +1,141 @@
+@charset  'UTF-8' ;
+
+artigo , seção , lado , rodapé , cabeçalho , menu , nav , figura , figcaption , hgroup , detalhes {
+	display : bloco ;
+}
+
+corpo  a {
+	preenchimento : 10 px ;
+}
+
+body  #tudo {
+	fundo : # D3D3D3 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 30 px ;
+	largura : 635 px ;
+}
+
+body  #tudo  #header {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+	preenchimento : 10 px ;
+}
+
+body  #tudo  #header  h1 {
+	alinhamento de texto : centro ;
+	posição : relativa ;
+	esquerda : -100 px ;
+}
+
+body  #tudo  nav {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px  10 px  0 ;
+	preenchimento : 10 px ;
+	alinhamento de texto : centro ;
+}
+
+body  #tudo  nav  img {
+	display : embutido ;
+	margem : 0 px  5 px ;
+	posição : relativa ;
+	topo : -100 px ;
+}
+
+body  #tudo  nav  ul {
+	tipo de estilo de lista : nenhum ;
+	estofamento : 0 ;
+	display : bloco embutido ;
+	posição : relativa ;
+	topo : -70 px ;
+	esquerda : -20 px ;
+}
+
+body  #tudo  nav  ul  li {
+	display : embutido ;
+	margem : 0 px  5 px ;
+}
+
+body  #tudo  nav  #logo {
+	flutuar : esquerda ;
+	posição : relativa ;
+}
+
+body  #tudo  nav  .icon {
+	float : direita ;
+}
+
+body  #tudo  #content {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+	exibição : inline-flex ;
+	altura : 254 px ;
+	largura : 593 px ;
+	preenchimento : 10 px ;
+}
+
+body  #tudo  #content  article {
+	fundo : # D3D3D3 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 30 px  10 px ;
+	largura : 233 px ;
+	posição : absoluta ;
+	preenchimento : 10 px ;
+}
+
+body  #tudo  #  cabeçalho do artigo de  conteúdo h1 { 
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+}
+
+body  #tudo  #content  header do artigo  p { 
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+}
+
+body  #tudo  #content  article  p {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+	fundo do preenchimento : 20 px ;
+}
+
+body  #tudo  #  rodapé do artigo de  conteúdo {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+}
+
+body  #tudo  #content  #sidebar {
+	fundo : # D3D3D3 ;
+	borda : 1 px  sólido  # 000 ;
+	posição : relativa ;
+	superior : 30 px ;
+	esquerda : 124 px ;
+	altura : 102 px ;
+	preenchimento : 10 px ;
+	margem esquerda : 40 px ;
+}
+
+body  #tudo  #content  #sidebar  h3 {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+}
+
+body  #tudo  #content  #sidebar  p {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 10 px ;
+}
+
+body  #tudo  #footer {
+	fundo : # A9A9A9 ;
+	borda : 1 px  sólido  # 000 ;
+	margem : 0  10 px  10 px ;
+	preenchimento : 10 px ;
+}
